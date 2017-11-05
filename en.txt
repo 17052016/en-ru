@@ -30,3 +30,6 @@ vabad töökohadсвободные вакансии
 Juriidiline Юредичное
 about О компании
 turvalisus, kõik kaitstud täieliku krüpteeringu abil Безопасность=Все защищено с помощью сквозного шифрования.
+pidev bitrate encoding Постоянная кодировка битрейта (CBR) для аудиовызовов.
+secure sharing extension разшерение безопасного деления
+more более
