@@ -10,6 +10,15 @@ Europe based
 Secure group calls
 Secure screen sharing
 Secure file sharing	
+No data sharing with advertisers	
+Phone number not required
+Secure group chats	
+Secure calls	
+Secure group calls	
+Secure screen sharing	
+Message edit and delete	
+Standalone desktop version	
+Company jurisdiction	
 Open in web
 Download
 Features
